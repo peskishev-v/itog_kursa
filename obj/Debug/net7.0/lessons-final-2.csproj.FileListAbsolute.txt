@@ -1,0 +1,15 @@
+F:\lessons\lessons-final-2\bin\Debug\net7.0\lessons-final-2.exe
+F:\lessons\lessons-final-2\bin\Debug\net7.0\lessons-final-2.deps.json
+F:\lessons\lessons-final-2\bin\Debug\net7.0\lessons-final-2.runtimeconfig.json
+F:\lessons\lessons-final-2\bin\Debug\net7.0\lessons-final-2.dll
+F:\lessons\lessons-final-2\bin\Debug\net7.0\lessons-final-2.pdb
+F:\lessons\lessons-final-2\obj\Debug\net7.0\lessons-final-2.csproj.AssemblyReference.cache
+F:\lessons\lessons-final-2\obj\Debug\net7.0\lessons-final-2.GeneratedMSBuildEditorConfig.editorconfig
+F:\lessons\lessons-final-2\obj\Debug\net7.0\lessons-final-2.AssemblyInfoInputs.cache
+F:\lessons\lessons-final-2\obj\Debug\net7.0\lessons-final-2.AssemblyInfo.cs
+F:\lessons\lessons-final-2\obj\Debug\net7.0\lessons-final-2.csproj.CoreCompileInputs.cache
+F:\lessons\lessons-final-2\obj\Debug\net7.0\lessons-final-2.dll
+F:\lessons\lessons-final-2\obj\Debug\net7.0\refint\lessons-final-2.dll
+F:\lessons\lessons-final-2\obj\Debug\net7.0\lessons-final-2.pdb
+F:\lessons\lessons-final-2\obj\Debug\net7.0\lessons-final-2.genruntimeconfig.cache
+F:\lessons\lessons-final-2\obj\Debug\net7.0\ref\lessons-final-2.dll
